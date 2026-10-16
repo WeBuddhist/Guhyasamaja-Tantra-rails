@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ།.md",
+                "file": "1-SOURCES/Commentaries/དངོས་གྲུབ་མཆོག་གི་ཉེ་བར་སྒྲུབ་པ་གཏུབ་ཟིན།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ།"
+              "title": "དངོས་གྲུབ་མཆོག་གི་ཉེ་བར་སྒྲུབ་པ་གཏུབ་ཟིན།"
             }
           }
         ]
@@ -199,12 +199,15 @@
   },
   "active": "00005b4a0b37c910",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ་གཏུབ་ཟིན།.md",
-    "1-SOURCES/Commentaries/སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ།.md",
-    "1-SOURCES/Commentaries/རྒྱུད་ཊཱིཀ་སྒྲོན་མ་རབ་གསལ།.md",
-    "1-SOURCES/Commentaries/རྒྱུད་ཊཱིཀ་རིམ་གཉིས་གཏེར་མཛོད།.md",
     "1-SOURCES/Commentaries/གསང་བ་འདུས་པའི་བཤད་སྦྱར་སྙིམ་པའི་མེ་ཏོག་ཅེས་བྱ་བ། སྨད་ཆ།.md",
     "1-SOURCES/Commentaries/གསང་བ་འདུས་པའི་བཤད་སྦྱར་སྙིམ་པའི་མེ་ཏོག་ཅེས་བྱ་བ། སྟོད་ཆ།.md",
+    "1-SOURCES/Commentaries/སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ།.md",
+    "1-SOURCES/Commentaries/དངོས་གྲུབ་མཆོག་གི་ཉེ་བར་སྒྲུབ་པ་གཏུབ་ཟིན།.md",
+    "1-SOURCES/Commentaries/སྙིམ་པའི་མེ་ཏོག་གཏུབ་ཟིན།.md",
+    "1-SOURCES/Commentaries/རིམ་གཉིས་གཏེར་མཛོད་གཏུབ་ཟིན།.md",
+    "1-SOURCES/Commentaries/སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ་གཏུབ་ཟིན།.md",
+    "1-SOURCES/Commentaries/རྒྱུད་ཊཱིཀ་སྒྲོན་མ་རབ་གསལ།.md",
+    "1-SOURCES/Commentaries/རྒྱུད་ཊཱིཀ་རིམ་གཉིས་གཏེར་མཛོད།.md",
     "1-SOURCES/Text/གསང་བ་འདུས་པའི་རྒྱུད།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -231,9 +234,6 @@
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md"
+    "4-SYSTEM/Skills/local-wiki-article/SKILL.md"
   ]
 }
