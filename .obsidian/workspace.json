@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 431.66147232055664
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -193,16 +193,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
   "active": "6a4ff00fff736c8e",
   "lastOpenFiles": [
     "1-SOURCES/Commentaries/གསང་བ་འདུས་པའི་བཤད་སྦྱར་སྙིམ་པའི་མེ་ཏོག་ཅེས་བྱ་བ། སྟོད་ཆ།.md",
+    "1-SOURCES/Text/གསང་བ་འདུས་པའི་རྒྱུད།.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/རྒྱུད་ཊཱིཀ་རིམ་གཉིས་གཏེར་མཛོད།.md",
     "1-SOURCES/Commentaries/སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ།.md",
     "1-SOURCES/Commentaries/གསང་བ་འདུས་པའི་བཤད་སྦྱར་སྙིམ་པའི་མེ་ཏོག་ཅེས་བྱ་བ། སྨད་ཆ།.md",
-    "1-SOURCES/Text/གསང་བ་འདུས་པའི་རྒྱུད།.md",
     "1-SOURCES/Text/གསང་བ་འདུས་པའི་རྒྱུད།_དུམ་མཚམས།.md",
     "1-SOURCES/Commentaries/རྒྱུད་ཊཱིཀ་སྒྲོན་མ་རབ་གསལ།.md",
     "1-SOURCES/Commentaries/རིམ་གཉིས་གཏེར་མཛོད་གཏུབ་ཟིན།.md",
@@ -210,10 +215,6 @@
     "1-SOURCES/Commentaries/སྙིམ་པའི་མེ་ཏོག་གཏུབ་ཟིན།.md",
     "1-SOURCES/Commentaries/སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ་གཏུབ་ཟིན།.md",
     "README.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
@@ -232,7 +233,6 @@
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md"
+    "4-SYSTEM/Skills/property-creator/SKILL.md"
   ]
 }
